@@ -1,4 +1,5 @@
 ## Hi there 👋
+eu sou aluna do alura
 
 <!--
 **lilian-qz/lilian-qz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
